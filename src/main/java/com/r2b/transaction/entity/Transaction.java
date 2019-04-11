@@ -1,4 +1,4 @@
-package com.r2b.entity;
+package com.r2b.transaction.entity;
 
 public class Transaction {
 

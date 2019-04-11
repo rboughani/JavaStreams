@@ -1,10 +1,10 @@
-package com.r2b.TransactionManagement;
+package com.r2b.transaction;
 
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import com.r2b.entity.Transaction;
+import com.r2b.transaction.entity.Transaction;
 
 public class App 
 {

@@ -9,8 +9,9 @@ import java.util.Optional;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.r2b.entity.Account;
-import com.r2b.entity.Transaction;
+import com.r2b.transaction.App;
+import com.r2b.transaction.entity.Account;
+import com.r2b.transaction.entity.Transaction;
 
 /**
  * Unit test for simple App.
